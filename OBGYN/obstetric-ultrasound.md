@@ -4,22 +4,22 @@
 
 ## Standard First-Trimester U/S
 
-### Indications
+### Indications (1st-Trimester)
 
 - Confirm **intrauterine** pregnancy
 - Confirm **cardiac** activity
 - Estimate **GA**
 - Dx/Evaluate **multiple gestation**, chorionicity
 - R/O **ectopic** pregnancy
-- Eval. cause of **vaginal bleeding**
+- Cause of **vaginal bleeding**
 - Eval. **pelvic pain**
 - R/O **Gestational trophoblastic disease (GTD)**
 - Fetal **anomalies**, e.g. anencephaly
 - NT measurement
-- adjunct to procedures
-- pelvic mass, uterine abn
+- Adjunct to procedures
+- Pelvic mass, Uterine abn
 
-### Imaging parameters
+### Imaging parameters (1st-Trimester)
 
 transvaginal > transabdominal
 
@@ -46,7 +46,8 @@ transvaginal > transabdominal
   - Calvarium
   - Cord insertion
   - Limbs
-- Nuchal region
+- Nuchal region  
+  ![NT measurement](images/NT-measurement.png)
   ![Cystic hygroma](https://www.researchgate.net/profile/Hueseyin_Oezcan2/publication/321829435/figure/fig2/AS:623947355807757@1525772050982/Ultrasound-image-of-a-septated-cystic-hygroma-which-demonstrates-the-mid-sagittal.png)
   - Guidelines for NT measurement
     1. Clear NT edge, probe perpendicular to NT line
@@ -55,5 +56,82 @@ transvaginal > transabdominal
     4. Neutral neck position, head in line with spine
     5. Amnion seen seperate from NT line
     6. Measurement at **widest** space of NT
-    7. (+) calipers inner borders of nuchal line (not protrude into the space)
+    7. (+) calipers inner borders of nuchal line (not protrude into the space)  
       ![Caliper placement](images/NT-caliper.png)
+- Other abnormal structures
+  - Adnexal mass
+  - Leiomyomata
+  - Cul-de-sac
+  - Uterine anomalies
+
+## Standard Second- and Third-Trimester U/S
+
+### Indications (2nd-, 3rd-Trimester)
+
+- Screening anomalies
+- Anatomy
+- Estimate GA
+- R/O Multiple gestation
+- Cervical length
+- Fetal growth
+- Discrepancy of Ut size and dates
+- Fetal presentation
+- Fetal well-being
+- Amniotic fluid abnormalities
+- PROM, premature labor
+- Vaginal bleeding
+- Abd, pelvic pain
+- R/O placental abruption
+- R/O fetal death
+- F/U fetal anomaly
+- Placental
+  - Appearance
+  - Location
+  - Abn (previa, vasa previa)
+- Adjunct to procedure
+- Adjunct to external cephalic version
+- R/O GTD
+- Pelvic mass, Ut anomalies
+
+### Imaging parameters (2nd-, 3rd-Trimester)
+
+[underconstruction]
+
+- Fetal cardiac activity
+- AFI
+- Placenta
+  - Location
+  - Appearance
+  - Relationship with internal cervical os
+    - umbilical cord
+    - number of vessels in cord
+
+## GA assessment
+
+- 1st-trimester => CRL (**C**rown-**R**ump **L**ength) most accurate
+- 2nd,3rd-trimester
+  - BPD (**B**i**P**arietal **D**iameter)
+    - level of thalami, cavum septi pellucidi
+    - should not seen cerebellar
+    - outer proximal to inner distal skull
+  - HC (**H**ead **C**ircumference)
+    - same level as BPD
+    - outer bony calvarium
+    - not included SC tissue
+  - FL (**F**emoral diaphysis **L**ength)
+    - GA > 14 wk
+    - long axis of femoral shaft
+    - US perpendicular to shaft
+    - exclude distal femoral epiphysis
+  - AC (**A**bdominal **C**ircumference)
+    - skin line
+    - true transverse view
+      - junction of umbilical vein
+      - portal sinus
+      - fetal stomach
+
+## Fetal weight estimation
+
+## Maternal anatomy
+
+## Fetal anatomic survey
