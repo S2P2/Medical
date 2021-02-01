@@ -97,8 +97,14 @@ transvaginal > transabdominal
 
 [underconstruction]
 
-- Fetal cardiac activity
-- AFI
+- Fetal cardiac activity (by video, M-mode)
+- Fetal number
+- Presenttion
+- Abnormal HR, rhythm
+- Amniotic fluid volume
+	- AFI
+	- Oligohydramnios single deepest pocket <2 cm (AFI<=5 cm)
+	- Polyhydramnios deepest vertical pocket >=8 cm, (AFI>=24 cm)
 - Placenta
   - Location
   - Appearance
@@ -136,7 +142,55 @@ transvaginal > transabdominal
   - BPD
   - HC
   - AC
-  
+  - FL
+- Growth evaluation q3+wk
+- Error +-15%
+
 ## Maternal anatomy
 
+- Adnexal mass
+	- esp. largest+potentially clinically significant leiomyomata
+	- 2nd-,3rd-trimester -> difficult to image ovaries
+- Cervix
+	- TAS: if abnormal or precise cervical length -> TVS
+- Midline lower Ut segment contraction may obscure internal os -> false longer endocervical canal
+- Excessive pressure with U/S may -> false longer cervix
+
 ## Fetal anatomic survey
+
+following content for GA 18+ wk
+
+Difficult to visualize factors
+- fetal size
+- position
+- movement
+- abd scars
+- increased maternal abd wall thickness
+- 2nd-,3rd-trimester -> artifact from acoustic shadowing
+
+Standard examination areas
+1. Head, face, neck
+	- Lateral cerebral ventricles
+	- Choroid plexus
+	- Midline falx
+	- Cavum septi pelluci
+	- Cerebellum
+	- Cisternal magna
+	- Upper lip
+	- Nuchal fold (GA 16-20 -> assess risk of aneuploidy)
+2. Chest
+	- Heart
+	- Four-chamber view, heart size, position
+	- Left ventricular outflow tract (LVOT)
+	- RVOT
+	- Three-vessel view, 3-vessel trachea view
+3. Abdomen
+	- Stomach (presence, size, situs)
+	- Kidneys
+	- Urinary bladder
+	- Umbilical cord insertion site to fetal abd.
+	- Umbilical cord vessel number
+4. Spine
+5. Extremities
+6. External genitalia
+	- esp. in multiple gestations
