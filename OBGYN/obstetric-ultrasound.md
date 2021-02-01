@@ -132,6 +132,11 @@ transvaginal > transabdominal
 
 ## Fetal weight estimation
 
+- Parameters used
+  - BPD
+  - HC
+  - AC
+  
 ## Maternal anatomy
 
 ## Fetal anatomic survey
