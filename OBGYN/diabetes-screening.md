@@ -1,10 +1,15 @@
+---
+tags: []
+created: 2021-02-04T13:43:21.384Z
+modified: 2021-02-04T13:43:46.334Z
+---
 # Diabetes Mellitus Screening in Pregnancy
 
 > [RTCOG Clinical Practice Guideline - Diabetes Mellitus Screening in Pregnancy](http://www.rtcog.or.th/home/wp-content/uploads/2017/05/OB-010_Diabetes-meltitus-screeing-in-pregnancy.pdf)
 
 - ถ้าเป็นไปได้ -> ตรวจทุกราย
 - 2-step approach = 50-g 1-h GCT -> 100-g, 75-g OGTT; ข้อดีคือ GCT ไม่ต้อง fasting 8-14 hr มาก่อน
-- 1-step approach = 100-g, 75-g OGTT (75-g เจาะแค่ fast, 1, 2; cut off เดียวกับ 100-g
+- 1-step approach = 100-g, 75-g OGTT (75-g เจาะแค่ fast, 1, 2; cut off เดียวกับ 100-g)
 - วิธีที่ 1 (Coustan)
   - first visit; 50-g 1-h GCT
   - if >= 140 mg/dL
