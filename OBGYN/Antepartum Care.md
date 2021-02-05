@@ -1,3 +1,8 @@
+---
+tags: []
+created: 2021-02-05T04:02:20.288Z
+modified: 2021-02-05T04:17:13.614Z
+---
 # Antepartum Care
 
 > [Guideline for Perinatal Care](https://www.acog.org/clinical-information/physician-faqs/-/media/3a22e153b67446a6b31fb051e469187c.ashx) Chapter 6
@@ -85,7 +90,7 @@ GA by LMP (wk) | \|U/S - LMP\| if true ->  U/S
 
 if no other specific indications, optimal time for single U/S -> GA 18-22 wk
 
-[Obstetric Ultrasound](OBGYN\obstetric-ultrasound.md) for details
+[Obstetric Ultrasound](obstetric-ultrasound.md) for details
 
 ### Routine Lab Test
 
