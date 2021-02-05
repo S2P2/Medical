@@ -17,9 +17,10 @@ modified: 2021-02-05T07:14:48.013Z
     - [Common Risk factors](#common-risk-factors)
     - [Symptoms](#symptoms)
     - [Lab](#lab)
-    - [Management](#management-1)
+    - [Management of DKA](#management-of-dka)
   - [Perinatal Morbidity and Mortality](#perinatal-morbidity-and-mortality)
   - [Obstetric Complications](#obstetric-complications)
+  - [Counseling and Management](#counseling-and-management)
 
 ## Definition
 
@@ -111,7 +112,7 @@ common in T1DM > T2DM
   - late deceralation if UC
 - F/U CPG q1h, Electrolyte, ketone q1-2h if possible
 
-### Management
+### Management of DKA
 
 - IV Fluids
   - NSS 1-2 L/hr for first hr
@@ -164,3 +165,49 @@ common in T1DM > T2DM
 
 Pregnancy with T1DM w/o nephropathy -> 15-20% preeclampsia  
 w/ nephropathy -> 50% preeclampsia
+
+## Counseling and Management
+
+- Prepregnancy visit
+  - Counsel potential complications
+    - preeclampsia
+    - hyperglycemia
+    - worsening diabetic retinopathy, nephropathy
+    - preterm delivery
+    - mode of delivery
+    - fetal anomalies
+    - fetal macrosomia
+    - neonatal complications
+  - Evaluate baseline
+    - hypertension
+    - nephropathy
+    - retinopathy
+    - CVD
+  - Contraception if not planning pregnancy
+  - Optimize HbA1C (<6%)
+  - Plan to increased folic acid when attempt to pregnant
+- 1st-trimester
+  - Lab
+    - HbA1C
+    - TSH
+    - 24-hr urine protein
+    - EKG
+  - Evaluation by
+    - Ophthalmologist
+    - Dietitian
+    - Possibly
+      - Endocrinologist
+      - Cardiologist
+      - Nephrologist
+- 2nd-trimester
+  - low-dose aspirin GA 12-28 wk (optimal <16 wk)
+  - U/S with detailed anatomical survery
+  - Consider fetal echocardiography
+- 3rd-trimester
+  - Evaluate fetal growth
+  - Start low-dose aspirin by GA 28 wk if not started
+  - Fetal monitoring
+- Delivery
+  - EFW >=4500 -> consider C/S
+  - w/o vascular complications, well controled- blood shugar -> deliver at 39 0/7 - 39 6/7 GA
+  - w/ vascular complicationsor poorly controlled blood glucosel, delivery at GA 36/07 - 38 6/7 wk
