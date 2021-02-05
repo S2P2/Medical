@@ -13,7 +13,7 @@ modified: 2021-02-05T07:14:48.013Z
   - [Definition](#definition)
   - [Management](#management)
   - [Maternal Morbidity](#maternal-morbidity)
-  - [Diabetic Ketoacidosis During Pregnancy](#diabetic-ketoacidosis-during-pregnancy)
+  - [Diabetic Ketoacidosis during Pregnancy](#diabetic-ketoacidosis-during-pregnancy)
     - [Common Risk factors](#common-risk-factors)
     - [Symptoms](#symptoms)
     - [Lab](#lab)
@@ -21,6 +21,8 @@ modified: 2021-02-05T07:14:48.013Z
   - [Perinatal Morbidity and Mortality](#perinatal-morbidity-and-mortality)
   - [Obstetric Complications](#obstetric-complications)
   - [Counseling and Management](#counseling-and-management)
+  - [Oral hypoglycemic agents](#oral-hypoglycemic-agents)
+  - [Insulin Management during Labor and Delivery](#insulin-management-during-labor-and-delivery)
 
 ## Definition
 
@@ -29,6 +31,8 @@ modified: 2021-02-05T07:14:48.013Z
   - HbA1C >= 6.5%
   - FPG >= 126 mg/dL
   - 75-g 2-h OGTT >= 200 mg/dL
+
+[Screening and Diagnosis](Diabetes%20Mellitus%20Screening.md)
 
 ## Management
 
@@ -79,7 +83,7 @@ Goal: Maintained near physiologic glucose level
       - increase risk of hypoglycemia
       - metoclopramide, prokinetic can be used
 
-## Diabetic Ketoacidosis During Pregnancy
+## Diabetic Ketoacidosis during Pregnancy
 
 common in T1DM > T2DM
 
@@ -200,7 +204,7 @@ w/ nephropathy -> 50% preeclampsia
       - Cardiologist
       - Nephrologist
 - 2nd-trimester
-  - low-dose aspirin GA 12-28 wk (optimal <16 wk)
+  - Start aspirin 81 mg/day GA 12-28 wk (optimal <16 wk)
   - U/S with detailed anatomical survery
   - Consider fetal echocardiography
 - 3rd-trimester
@@ -210,4 +214,17 @@ w/ nephropathy -> 50% preeclampsia
 - Delivery
   - EFW >=4500 -> consider C/S
   - w/o vascular complications, well controled- blood shugar -> deliver at 39 0/7 - 39 6/7 GA
-  - w/ vascular complicationsor poorly controlled blood glucosel, delivery at GA 36/07 - 38 6/7 wk
+  - w/ vascular complications or poorly controlled blood glucose, delivery at GA 36/07 - 38 6/7 wk
+
+## Oral hypoglycemic agents
+
+Insulin is preferred, if not -> metformin can be used, note that limitations of safety data, high rate of treatment failure
+
+## Insulin Management during Labor and Delivery
+
+- Usual dose of intermediate/long-acting insulin is given at bedtime
+- Morning dose is withheld/reduced depends on timing of admission/delivery
+- NSS IV
+- Active labor or glucose level < 70 mg/dL -> 5% dextrose 100-150 mL/hr (2.5 mg/kg/min), keep glucose 100 mg/dL
+- Glucose level q1hr
+- RI IV 1.25 units/hr if glucose > 100 mg/dL
