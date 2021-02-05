@@ -9,6 +9,18 @@ modified: 2021-02-05T07:14:48.013Z
 
 > ACOG Practice Bulletin 201 Pregestational Diabetes Mellitus
 
+- [Pregestational Diabetes Mellitus](#pregestational-diabetes-mellitus)
+  - [Definition](#definition)
+  - [Management](#management)
+  - [Maternal Morbidity](#maternal-morbidity)
+  - [Diabetic Ketoacidosis During Pregnancy](#diabetic-ketoacidosis-during-pregnancy)
+    - [Common Risk factors](#common-risk-factors)
+    - [Symptoms](#symptoms)
+    - [Lab](#lab)
+    - [Management](#management-1)
+  - [Perinatal Morbidity and Mortality](#perinatal-morbidity-and-mortality)
+  - [Obstetric Complications](#obstetric-complications)
+
 ## Definition
 
 - U/D T1DM, T2DM
