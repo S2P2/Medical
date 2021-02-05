@@ -1,6 +1,16 @@
+---
+tags:
+    - dm
+    - gdm
+    - obgyn
+created: 2021-02-05T02:42:59.029Z
+modified: 2021-02-05T02:48:12.175Z
+---
 # Gestational Diabetes Mellitus
 
 > ACOG Practice Bulletin 190: Gestational Diabetes Mellitus
+
+#dm #gdm #obgyn 
 
 - [Gestational Diabetes Mellitus](#gestational-diabetes-mellitus)
   - [Definition](#definition)
