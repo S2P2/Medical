@@ -2,7 +2,7 @@
 tags:
     - dm
 created: 2021-02-05T02:45:32.587Z
-modified: 2021-02-05T05:30:43.578Z
+modified: 2021-02-05T07:14:48.013Z
 ---
 # Pregestational Diabetes Mellitus
 #dm #obgyn  
@@ -117,3 +117,31 @@ common in T1DM > T2DM
   - pH 6.9-7.0 -> 7.5% NaHCO3 50 mL + น้ำ 200mL + 10 mEq KCl drip in 1 hr, repeat NaHCO3 q2hr until pH=7.0
   - pH <6.9 -> 7.5% NaHCO3 100 mL + น้ำ 400 mL + 20 mEq KCl drip in 2 hr, repeat NaHCO3 q2hr until pH=7.0
 
+## Perinatal Morbidity and Mortality
+- poor prepregnancy glucose control -> increased rate of 
+  - congenital malformation
+  - spontaneous abortion
+- Hyperglyceimaa during organogenesis (5-8wk after LMP)
+  - abnormal development
+- Elevated HbA1C -> higher rate anomalies, stillbirth, macrosomia
+- Diffusion of glucose across placenta -> transient fetal hyperglycemia -> stimulation to fetal pancreatic beta cells -> fetal hyperinsulinemia
+  - insulin = potent growth hormone ->
+    - excessive fetal growth (esp. adipose tissue)
+    - weight more than 4000 g
+    - disproportionate conc of fact around shoulder and chest -> risk of shoulder dystocia at vaginal delivery
+- Profound hypoglycemia -> higher rate of
+  - RDS
+  - Polycythemia
+  - Organomegaly
+  - Electrolyte disturbancees
+  - Hyperbilirubinemia
+
+## Obstetric Complications
+- increased rate of 
+  - Primary C/S
+  - Spontaneous preterm labor
+  - Polyhydramnios -> preterm labor
+- HbA1C < 7% -> better obstetric outcomes
+
+Pregnancy with T1DM w/o nephropathy -> 15-20% preeclampsia  
+w/ nephropathy -> 50% preeclampsia
