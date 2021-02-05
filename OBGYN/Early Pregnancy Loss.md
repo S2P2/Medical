@@ -40,17 +40,17 @@ In the 1st trimester, these terms are used interchangeably
 * U/S
   * CRL ≥ 7mm, no heartbeat (CRL=Crown-rump length)
   * MSD ≥ 25mm, no embryo (MSD=Mean sac diameter)
-  * gestational sac w/o yolk sac, f/u ≥2wk no embryo w/ heartbeat
-  * gestational sac _w/ yolk sac_, f/u ≥11day no embryo w/ heartbeat
-  * f/u U/S 7-10d if
+  * gestational sac w/o yolk sac, F/U ≥2wk no embryo w/ heartbeat
+  * gestational sac _w/ yolk sac_, F/U ≥11day no embryo w/ heartbeat
+  * F/U U/S 7-10d if
     * CRL < 7mm, no heartbeat
     * MSD 16-24 mm, no embryo
     * no embryo for ≥6wk after LMP
     * empty amnion
     * yolk sac >7mm
     * MSD - CRL < 5mm
-    * gestational sac w/o yolk sac, f/u 7-13d no embryo w/ heartbeat
-    * gestational sac _w/ yolk sac_, f/u 7-10d no embryo w/ heartbeat
+    * gestational sac w/o yolk sac, F/U 7-13d no embryo w/ heartbeat
+    * gestational sac _w/ yolk sac_, F/U 7-10d no embryo w/ heartbeat
 * serum β-hCG - ↑suggests Ectopic Pregnancy
 
 ### Management
@@ -68,7 +68,7 @@ no evidence of different long-term outcomes
   * commonly used criterion for complete expulsion
     * no gestational sac
     * endometrial thickness < 30mm
-  * if cannot f/u U/S
+  * if cannot F/U U/S
     * UPT
     * serial quantitative serum β-hCG
 * Medical Management
@@ -86,6 +86,6 @@ no evidence of different long-term outcomes
     * pain medications
     * Rh(D) neg and unsensitized
       * Rh(D)-immune globulin within 72hr after 1st misoprostol
-    * f/u 7-14d U/S check complete expulsion
+    * F/U 7-14d U/S check complete expulsion
       * if no U/S, serial serum β-hCG
     * if medical fails, expectant mx with ob-gyn, or suction curettage
