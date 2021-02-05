@@ -2,7 +2,7 @@
 tags:
     - dm
 created: 2021-02-05T02:45:32.587Z
-modified: 2021-02-05T03:30:08.764Z
+modified: 2021-02-05T04:56:54.023Z
 ---
 # Pregestational Diabetes Mellitus
 #dm #obgyn  
@@ -37,5 +37,13 @@ Goal: Maintained near physiologic glucose level
   - During night >= 60
   - Mean CPG 100 mg/dL
   - Urine ketone if glucose > 200 mg/dL
+- Eye examination in 1st-trimester + F/U
+- Baseline Cr, UPCR, 24-hr Urine protein
+- 
 
 ## Maternal Morbidity
+- Diabetic retinopathy
+  - Proliferative retinopathy -> PRP before pregnant
+  - Commonly progress in pregnancy
+- Diabetic nephropathy
+- 
