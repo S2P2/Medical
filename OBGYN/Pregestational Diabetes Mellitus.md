@@ -1,14 +1,13 @@
 ---
 tags:
     - dm
+    - obgyn
 created: 2021-02-05T02:45:32.587Z
 modified: 2021-02-05T07:14:48.013Z
 ---
 # Pregestational Diabetes Mellitus
-#dm #obgyn  
 
 > ACOG Practice Bulletin 201 Pregestational Diabetes Mellitus
-
 
 ## Definition
 
@@ -19,6 +18,7 @@ modified: 2021-02-05T07:14:48.013Z
   - 75-g 2-h OGTT >= 200 mg/dL
 
 ## Management
+
 Goal: Maintained near physiologic glucose level
 
 - Diet
@@ -42,6 +42,7 @@ Goal: Maintained near physiologic glucose level
 - Baseline EKG (esp. longstanding DM)
 
 ## Maternal Morbidity
+
 - Diabetic retinopathy
   - Proliferative retinopathy -> PRP before pregnant
   - Commonly progress in pregnancy
@@ -70,6 +71,7 @@ Goal: Maintained near physiologic glucose level
 common in T1DM > T2DM
 
 ### Common Risk factors
+
 - New onset DM
 - Infections
   - Influenza
@@ -81,11 +83,13 @@ common in T1DM > T2DM
   - Antenatal corticosteroids
 
 ### Symptoms
+
 - Abd pain
 - N/V
 - Altered sensorium
 
 ### Lab
+
 - Arterial pH < 7.3
 - HCO3- < 15 mEq/L
 - Elevated anion gap
@@ -96,6 +100,7 @@ common in T1DM > T2DM
 - F/U CPG q1h, Electrolyte, ketone q1-2h if possible
 
 ### Management
+
 - IV Fluids
   - NSS 1-2 L/hr for first hr
   - NSS 250-500 mL/hr depends on hydration state (8 hr)
@@ -118,7 +123,8 @@ common in T1DM > T2DM
   - pH <6.9 -> 7.5% NaHCO3 100 mL + น้ำ 400 mL + 20 mEq KCl drip in 2 hr, repeat NaHCO3 q2hr until pH=7.0
 
 ## Perinatal Morbidity and Mortality
-- poor prepregnancy glucose control -> increased rate of 
+
+- poor prepregnancy glucose control -> increased rate of
   - congenital malformation
   - spontaneous abortion
 - Hyperglyceimaa during organogenesis (5-8wk after LMP)
@@ -137,7 +143,8 @@ common in T1DM > T2DM
   - Hyperbilirubinemia
 
 ## Obstetric Complications
-- increased rate of 
+
+- increased rate of
   - Primary C/S
   - Spontaneous preterm labor
   - Polyhydramnios -> preterm labor
