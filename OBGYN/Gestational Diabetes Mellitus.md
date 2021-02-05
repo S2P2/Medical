@@ -4,7 +4,7 @@ tags:
     - gdm
     - obgyn
 created: 2021-02-05T02:42:59.029Z
-modified: 2021-02-05T02:48:12.175Z
+modified: 2021-02-05T06:54:29.808Z
 ---
 # Gestational Diabetes Mellitus
 
@@ -49,7 +49,7 @@ Significant reduction in
 
 ## Monitoring Blood Glucose
 
-- fasting <95 md/dL, postprandial 1 hr <120 mg/dL, 2 hr <140 mg/dL
+- fasting <95 md/dL, postprandial 1 hr <140 mg/dL, 2 hr <120 mg/dL
 
 ## Goal of Treatment
 
