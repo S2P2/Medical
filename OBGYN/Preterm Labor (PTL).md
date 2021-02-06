@@ -23,7 +23,7 @@
 - Very LBW = 1000 <= BW < 1500
 - Extremely LBW = 500 <= BW < 1000
 
-### Diagnosis
+## Diagnosis of Preterm Labor
 
 ต้องมีครบ
 
@@ -36,16 +36,82 @@
   - dilate >= 1cm
   - effacement >= 80%
 
-#### PPROM (preterm premature rupture of membranes)
+## Prevention of Preterm Labor
 
-- ถุงน้ำคร่ำแตก ก่อน เจ็บครรภ์จริง เมื่อ GA < 37 wk
+- Cervical cerclage
+- Progesterone
+- ATB for asymptomatic bacteriuria
+- Avoid alcohol,substance
+- Smoking cessation
+- ลดอัตราการตั้งครรภ์แฝดจากเทคนิคการช่วยมีบุตรยาก
+- หลีกเลี่ยงทำงานหนัก
+
+## Management of Preterm Labor
+
+- Check Dx
+- Admit
+- GA, EFW, position, presentation
+- Maternal well-being: V/S, PE
+- Fetal well-being: EFM, UC
+- NPO
+- Large bore IV (in case of blood transfuse)
+- GBS prophylaxis
+- หา cause
+	- Ano-vaginal swab culture
+	- UA, UC
+	- CBC
+	- U/S: AFI, anomalies, placenta, Ut, ovaries
+	- Maternal
+		- HT
+		- Fever
+		- Infection
+		- U/D: Heart, immunocompromised
+- แจ้งข้อมูลผู้ป่วย อาการต่างๆ + ขั้นตอนการรักษา
+- แจ้งทีม: OB, Ped, Nurse(LR, NICU/PICU)
+- ถ้ารพ.ดู LBW ไม่ได้ -> in-utero transfer
+- ถ้าส่วนนำเป็นก้น EFW<2000g -> ควร C/S
+
+### GA >= 34 wk
+
+- **No** inhibit
+- **No** steroid
+
+### GA < 34 wk
+
+- Inhibit
+- ก่อน inhibit
+	- Check C/I
+	- บอก ADR, complications
+	- Lab: Electrolyte, blood sugar, BUN, Cr, etc. ขึ้นกับยาและโรค
+	- U/S: GA, number of fetus, AFI, placenta
+- ขณะ inhibit
+	- Observe UC -> ปรับยา
+	- Monitor V/S, EFM, I/O
+	- Observe ADR -> ถ้ามี -> หยุด/ลด หรือ เปลี่ยนยา
+	- if non-reassuring fetal status -> หยุด/ลดยา -> IUR, notify OB, Ped
+- หลัง inhibit
+	- no UC 24 hr -> ลด/หยุดยา
+- Single course antenatal corticosteroid
+
+## PPROM (preterm premature rupture of membranes)
+
 - Diagnosis
-  - speculum
+  - sterile speculum
     - posterior fornix - น้ำใส/ปน vernix
     - น้ำน้อย/ไม่พบ => ไอ
   - น้ำคร่ำ
     - pH ~ 7 (vaginal discharge pH ~ 4-4.5)
     - fern test + (ป้ายสไลด์ ทิ้งให้แห้ง ส่องเห็น fern)
+- **No** digital PV
+- **ไม่**สวนอุจจาระ
+- Admit
+- GA >= 34 wk -> induction esp. น้ำเดิน >12hr
+- GA < 34 wk -> expectant
+- Monitor V/S, EFM
+- หา cause (เหมือน Preterm labor)
+- ATB
+	- ให้คลอด -> GBS prophylaxis
+	- expectant -> prolonged latency peroid
 
 #### Threatened Preterm Labor
 
