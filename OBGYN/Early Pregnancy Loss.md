@@ -1,3 +1,8 @@
+---
+tags: []
+created: 2021-02-05T16:18:33.274Z
+modified: 2021-02-06T07:13:14.228Z
+---
 # Early Pregnancy Loss
 
 ## Background
@@ -6,11 +11,13 @@
 
 * a nonviable, **intrauterine** pregnancy **GA < 13** wk with (1)
   * an **empty** gestational sac
-  * a gestational sac containing an embryo or fetus **without fetal heart activity**
+  * a gestational sac containing an embryo or fetus **without fetal heart activity**  
+
 In the 1st trimester, these terms are used interchangeably
-  * miscarriage
-  * spontaneous abortion
-  * early pregnancy loss
+
+* miscarriage
+* spontaneous abortion
+* early pregnancy loss
 
 ### Incidence
 
