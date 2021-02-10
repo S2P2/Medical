@@ -3,7 +3,7 @@ tags:
     - dm
     - obgyn
 created: 2021-02-05T02:45:32.587Z
-modified: 2021-02-05T07:14:48.013Z
+modified: 2021-02-10T01:06:12.713Z
 ---
 # Pregestational Diabetes Mellitus
 
@@ -158,6 +158,14 @@ common in T1DM > T2DM
   - Organomegaly
   - Electrolyte disturbancees
   - Hyperbilirubinemia
+### Neonatal Effects
+  - RDS <- due to preterm
+  - Hypoglycemia
+  - Hypocalcemia
+  - Hyperbilirubinemia and polycythemia
+  - Cardiomyopathy
+  - Long-term cognitive development
+- Inheritance of diabetes; T2DM > T1DM
 
 ## Obstetric Complications
 
