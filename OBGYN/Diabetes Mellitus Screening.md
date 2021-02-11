@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [gdm, dm, obgyn]
 created: 2021-02-04T13:43:21.384Z
 modified: 2021-02-04T13:43:46.334Z
 ---
