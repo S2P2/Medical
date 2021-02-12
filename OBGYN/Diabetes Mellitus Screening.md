@@ -14,7 +14,7 @@ modified: 2021-02-04T13:43:46.334Z
   - first visit; 50-g 1-h GCT
   - if >= 140 mg/dL
     - 100-g OGTT
-    - fasting 8-14 hr -> เจาะ V
+    - fasting 8-14 hr -> เจาะ V (fasting)
     - ดื่ม glucose 100 g
     - เจาะ V at 1,2,3 hr
     - ปกติ 95, 180, 155, 140, เกิน 2 ค่า ขึ้นไป -> GDM
